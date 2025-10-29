@@ -1,0 +1,8 @@
+scikit-learn
+notebook
+matplotlib
+pandas
+seaborn
+joblib
+torch
+torchvision
